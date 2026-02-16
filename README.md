@@ -1,6 +1,5 @@
 # Portfolio
-This is a practice on the creation of a portfolio website using html
-
+This is a practice on the creation of a portfolio website using html and Css
 
 ## Pages Created include:
 1. Index.html
@@ -8,3 +7,4 @@ This is a practice on the creation of a portfolio website using html
 3. Work.html
 4. Projects.html
 5. Hobbies.html
+6. Css File
